@@ -1,0 +1,12 @@
+{
+  "name": "albacross-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "testcafe": "*"
+  },
+  "scripts": {
+    "test-e2e": "testcafe chrome e2e-tests --skip-js-errors"
+  }
+}

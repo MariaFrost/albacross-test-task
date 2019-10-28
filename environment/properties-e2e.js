@@ -1,0 +1,1 @@
+export const LOGIN_URL = 'https://app.albakaos.com/login';
